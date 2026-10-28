@@ -1,0 +1,7 @@
+@"
+__pycache__/
+*.pyc
+*.pkl
+*.npy
+.env
+"@ | Out-File -FilePath .gitignore -Encoding utf8
